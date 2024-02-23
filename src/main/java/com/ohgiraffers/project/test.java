@@ -4,6 +4,13 @@ public class test {
 
     public static void main(String[] args) {
 
+
+        int num = 1;
+
+    }
+
+
         char ch = '바';
     }
+
 }
