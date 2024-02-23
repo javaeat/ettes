@@ -6,6 +6,10 @@ public class test {
 
         int num = 1;
 
+
+
+        System.out.println("브랜치 수정 후 올리는 중");
+
     }
 
 }
