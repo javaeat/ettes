@@ -12,6 +12,7 @@ public class test {
 
         System.out.println("브랜치 수정 후 올리는 중");
         Scanner sc = new Scanner(System.in);
+        String word = sc.nextLine();
     }
 
 
