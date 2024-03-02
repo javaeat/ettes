@@ -19,6 +19,9 @@ public class test {
         switch (op){
             case '/' :
                 result = first / second;
+                if(second == 0){
+                    System.out.println("0으로 나눌수 없습니다.");
+                }
                 break;
             case '%' :
                 result = first % second;
