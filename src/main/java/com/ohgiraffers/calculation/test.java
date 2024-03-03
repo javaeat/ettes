@@ -2,7 +2,7 @@ package com.ohgiraffers.calculation;
 
 import java.util.Scanner;
 
-public class Application {
+public class test {
 
     public static void main(String[] args) {
 
