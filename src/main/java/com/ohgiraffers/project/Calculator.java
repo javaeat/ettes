@@ -7,11 +7,13 @@ public class Calculator {
 
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("첫 번째 숫자를 입력해주세요:");
-        double num1 = scanner.nextDouble();
 
-        System.out.print("두 번째 숫자를 입력해주세요:");
-        double num2 = scanner.nextDouble();
+        System.out.print("첫 번째 정수 값을 입력해주세요:");
+        int num1 = scanner.nextInt();
+
+
+        System.out.print("두 번째 정수 값을 입력해주세요:");
+        int num2 = scanner.nextInt();
 
         System.out.println("연산 기호를 선택해주세요 (+, -, *, /):");
         String operator = scanner.next();
