@@ -30,12 +30,8 @@ public class test {
                 break;
         }
 
-
-        System.out.println("결과: " + result);
-
         System.out.println(first + " " + op + " " + second + " = " + result);
     }
-
 
 
     }
