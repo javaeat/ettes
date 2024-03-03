@@ -24,7 +24,7 @@ public class test {
 
             default:
                 System.out.println("잘못된 연산기호 입니다.");
-                break;
+                return;
         }
 
         System.out.println(first + " " + op + " " + second + " = " + result);
